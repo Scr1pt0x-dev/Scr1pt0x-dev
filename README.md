@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Scr1pt0x-dev.Scr1pt0x-dev)
 
-I am a Full Stack Developer and Security Enthusiast. I lavvv programming, reading....
+Full Stack Developer and Security Enthusiast. I lavvv programming, reading
 
 <img align="right" alt="GIF" src="https://s3.gifyu.com/images/code93b8ce6667585f40.gif" width="460" height="318" />
   
