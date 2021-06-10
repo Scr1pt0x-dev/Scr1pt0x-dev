@@ -23,12 +23,7 @@ Full Stack Developer and Security Enthusiast. I lavvv programming, reading
 
 </br>
 
-<!-- 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript-redux   2 hours         ████████████████████████▓   98.76 % 
-```
-<!--END_SECTION:waka--> -->
+
 
 ### ⚡ SKILLS
 
